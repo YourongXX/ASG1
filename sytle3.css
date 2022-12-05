@@ -1,0 +1,47 @@
+.logo{
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size: 35px;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    color: black;
+ 
+}
+
+#header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background-blend-mode: lighten ;
+}
+
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+}
+
+#navbar li{
+    list-style: none;
+    padding: 0 26px;
+
+}
+
+#navbar li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    transition: 0.3s ease;
+
+}
+
+#navbar li a:hover{
+    color: blue;
+}
+
+#navbar li a:active{
+    color: blue;
+}
