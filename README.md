@@ -6,7 +6,7 @@
 
 # SALES PITCH
 
-# "Not fashionable , not affordable ? We got you all covered"
+# "A new revolution, a new perspective in life"
 
 # We bring in youthful and vibrant clothes that are designed by talented young designers. It is not only affordable, but suitable for all ages and sex.We want to innovate something different in this generation, since everyone is open and willing to try. To cater to the needs of our customers, we take in all kinds of different feedbacks and come out with strategies to improve. We ensure that all of our goods and services are of quality and is worth the wait.
 
